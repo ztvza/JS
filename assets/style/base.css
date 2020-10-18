@@ -1,0 +1,16 @@
+body, h1, h2, h3, h4, h5, h6, li, ol, u, p {
+	margin: 0;
+}
+
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+*{
+box-sizing: border-box;
+}
+
